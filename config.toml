@@ -18,7 +18,7 @@ profileImage = "https://avatars.githubusercontent.com/u/45996305?v=4"
 showEducation = true
 showExperience = true
 showOpenSource = false
-showProjects = false
+showProjects = true
 showPublications = false
 showQr = false
 showSkills = true
