@@ -1,0 +1,35 @@
+[
+  {
+      "grouping":"Architecture",
+      "skills":[ "IP Networking","DNS","Firewalls","Nagios","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+  },{
+      "grouping":"Languages, Operating Systems, Tooling & Testing",
+      "skills":["Python","Javascript", "ReactJS", "AngularJS", "Express","Java","git","AWK","linux","bash",
+      "Puppeteer",
+      "Selenium",
+      "Jest",
+      "SuperTest",
+      "Swagger",
+      "BASH Automated Testing"]
+  },
+  {
+      "grouping":"Platform Development & Administration",
+      "skills":[ "Github", "Atlassian","Bitbucket","NGINX","MySQL","Wordpress"]
+  },
+  {
+      "grouping":"Data Management",
+      "skills":[
+        {"name":"PostgreSQL","icon":""},
+        {"name":"DynamoDB","icon":""}
+      ]
+  },
+  {
+    "grouping":"Containers & Cloud",
+      "skills":[
+          {"name":"Docker","link":"https://docker.com"},
+          {"name":"AWS","link":"https://aws.amazon.com"},
+          {"name":"Google Cloud","link":"https://cloud.google.com"},
+          {"name":"Linux","link":"https://bosh.io"}
+      ]
+  }
+]

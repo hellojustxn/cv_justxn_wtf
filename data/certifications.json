@@ -1,0 +1,30 @@
+[
+	{
+		"name":"AWS Certified Cloud Practioner",
+		"description": "AWS Certified Cloud Practioner",
+		"badge":"https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png",
+		"proof":"https://www.credly.com/badges/1b8fcd93-e2e1-4ab3-b7f3-2d5d0517e837"
+
+	},
+	{
+		"name":"AWS Certified Solutions Architect",
+		"description": "AWS Certified Solutions Architect – Associate",
+		"badge":"https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png",
+		"proof":"https://www.credly.com/badges/080e888c-66fd-477d-9786-84d293b6fc40"
+
+	},
+	{
+		"name":"AWS Certified SysOps Administrator – Associate",
+		"description": "AWS Certified Solutions Architect – Associate",
+		"badge":"https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png",
+		"proof":"https://www.credly.com/badges/27505edc-01bc-4690-9977-bc4443cadea8"
+
+	},
+	{
+		"name":"Aviatrix Certified Engineer - Multi-Cloud Network Associate",
+		"description": "viatrix Certified Engineer - Multi-Cloud Network Associate",
+		"badge":"https://images.credly.com/size/680x680/images/30dea324-9ebf-4a7b-96b0-4ee602f0d5e7/aceAssociatetBadgeArtboard_1.png",
+		"proof":"https://www.credly.com/badges/9c168644-e23c-4605-9d98-91b5db56e6c9https://www.credly.com/badges/fb192a49-f27f-4110-833b-e9e9d7a5fbd7"
+
+	}
+]

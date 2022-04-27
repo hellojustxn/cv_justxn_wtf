@@ -1,0 +1,20 @@
+[
+  {
+      "grouping":"Software",
+      "coursework":[ 
+        {"name": "Intro to Data Structures - CSE 101"},
+        {"name": "Intro to Analysis of Algorithms - CSE 102"},
+        {"name": "Computational Models - CSE 103"},
+        {"name": "Computer Architecture - CSE 120"},
+        {"name": "Principles of Computer Systems Design - CSE 130"}]
+  },
+  {
+      "grouping":"Application",
+      "coursework":[
+        {"name": "Artificial Intelligence - CSE140"},
+        {"name": "Introduction to Computer Networks - CSE150"},
+        {"name": "Database Systems I - CSE180"},
+        {"name": "Web Applications - CSE183"}
+      ]
+  }
+]

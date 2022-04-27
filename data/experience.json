@@ -1,0 +1,36 @@
+[
+    {
+        "role":"DevOps",
+        "company":"Zoom Video Communications",
+        "summary":"",
+        "range": "July 2022",
+        "link": "https://zoom.us"
+    },
+    {
+        "role":"Project Lead",
+        "company":"Tech4Good Lab",
+        "summary":"",
+        "range":"September 2021 - March 2022",
+        "link": "https://tech4good.soe.ucsc.edu/#/"
+    },
+    {
+        "role":"Web Developer",
+        "company":"Tech4Good Lab",
+        "summary":"",
+        "range":"June 2021 - December 2021",
+        "link": "https://tech4good.soe.ucsc.edu/#/"
+    },
+    {
+        "role":"IT/Platform Intern",
+        "company":"UpGuard",
+        "summary":"",
+        "range":"August 2018 - August 2019",
+        "link": "https://upguard.com"
+    },
+    {
+        "role":"Instructor",
+        "company":"Mountain View Code Club",
+        "summary":"",
+        "range":"April 2018 - August 2019"
+    }
+]

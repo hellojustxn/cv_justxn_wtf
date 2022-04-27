@@ -1,4 +1,48 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Justin"
+baseURL = "https://resume.justxn.wtf/"
 theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "San Francisco, CA"
+email = "lgwjustin@gmail.com"
+favicon = ""
+firstName = "Justin"
+lastName = ""
+phone = ""
+profileImage = "https://avatars.githubusercontent.com/u/45996305?v=4"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = false
+showPublications = false
+showQr = false
+showSkills = true
+showCoursework = true
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/jgwl/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/hellojustxn/"
+name = "GitHub"
+
+[[params.handles]]
+link = "https://blog.justxn.com/"
+name = "Medium"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
