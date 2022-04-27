@@ -1,6 +1,6 @@
 title = "Justin"
 baseURL = "https://cv.justxn.wtf/"
-theme = "hugo-resume"
+theme = "cv_justxn_wtf_theme"
 languageCode = "en-us"
 PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true

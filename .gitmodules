@@ -1,3 +1,6 @@
 [submodule "themes/hugo-resume"]
 	path = themes/hugo-resume
 	url = https://github.com/eddiewebb/hugo-resume
+[submodule "themes/cv_justxn_wtf_theme"]
+	path = themes/cv_justxn_wtf_theme
+	url = https://github.com/hellojustxn/cv_justxn_wtf_theme
