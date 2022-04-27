@@ -1,5 +1,5 @@
 title = "Justin"
-baseURL = "https://resume.justxn.wtf/"
+baseURL = "https://cv.justxn.wtf/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
